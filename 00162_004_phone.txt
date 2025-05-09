@@ -1,0 +1,68 @@
+17.44622893062524	19.838461242918758	O1	Uh so, Arifin, do you like movies
+19.88264609432441	24.968763602059767	O2	Yeah, of course, I am a very big fan of movies, whenever I get time, I watch movies all the time[N]
+24.984419381953675	26.900840267635186	O1	What was the last movie you have uh
+26.920127552670603	31.539635115609702	O2	[OVERLAP/] Last [/OVERLAP] movie I saw uh Top Gun Maverick's by uh Tom Cruise, [OVERLAP/] that movie [/OVERLAP] is very good
+31.964459358400546	35.251366544402686	O1	Ah that is very good, so like uh do you like English movie
+35.26779568679662	37.923274268267456	O2	[OVERLAP/] Yeah, [/OVERLAP] yeah, of course, English movies, I, I love English movies
+37.96325119401183	40.87900576130513	O1	[OVERLAP/] Uh what about [/OVERLAP] the Bollywood movies, I like Bollywood movies [OVERLAP/] a lot[/OVERLAP][N]
+40.90532172110605	46.893080317408376	O2	Bollywood, Bollywood movies, I also watch some, some great movies, you know, [OVERLAP/] some [/OVERLAP] Bollywood actors like Three Idiots
+46.90260400768358	47.534508969321784	O1	Yeah huh
+47.57071210944733	52.21830057865276	O2	And some Shah Rukh Khan movies [OVERLAP/] and [/OVERLAP] also Hrithik Roshan movies I watched
+52.24191304814444	52.65596230028865	O1	Mm-hmm[N]
+53.22241130801471	58.11476103359711	O2	I like um I uh I also watch uh never uh Hollywood movies, Bollywood movies[N]
+58.12171135993606	63.461938595979824	O2	But last movie that uh that is a old movie I, I saw with my friends,uh my roommate[N]
+63.58015627727744	68.1800986802021	O2	uh, that is Kingsman, the Golden [OVERLAP/] Circle last night, [/OVERLAP] yeah, so uh
+68.70651815756338	76.67179235004494	O2	Also, I like one actor in Hollywood that is Tom Holland, [OVERLAP/] you know, yeah, [/OVERLAP] the Spider-Man guy, [OVERLAP/]so[/OVERLAP] uh I like his movie
+76.68131604032014	84.09391070695591	O2	But apart from uh um Bollywood mo - Hollywood movies, I like Hollywood movie mo - uh Bollywood movie most that is like lah
+84.11730398314117	87.99083804258295	O2	Yeah, you know, uh the uh Salman Khan, Shah Rukh [OVERLAP/] Khan [/OVERLAP]
+87.99779872451113	93.73828847150335	O2	Uh Shah Rukh Khan's Jawan movie, one of the best movie I [OVERLAP/]have seen[/OVERLAP] uh uh I have ever seen in my life
+93.81973172933343	99.65740596787981	O2	Like he he is the best actor I think right now in the [OVERLAP/] India, not even in the India or in the world also[/OVERLAP]
+99.6755602151465	101.75621394004233	O1	Cause he is a good actor yeah [OVERLAP/] so uh [/OVERLAP] many people know[N]
+101.9838349619371	109.65486165406959	O2	So, uh but apar - uh moreover, I think one more thing is that movie connects people with each [OVERLAP/]other but[/OVERLAP]
+109.69018364216222	110.04808069545463	O1	So yeah[N]
+110.15285950299662	111.9320717822686	O2	[OVERLAP/] One thing is that it [/OVERLAP]
+111.96388256896104	112.36914834989508	O1	movie[N]
+112.45839097828683	119.22340232111334	O2	Yeah, but it uh, movie sometime it has some uh um uh disadvantages[N]
+119.25699412680856	123.80979788732719	O2	Like students, those who are students, they get influenced by the movies, what do you think about it
+124.27463440116736	130.14132777952113	O1	Uh it is in, the percentage is not, the percentage is not in that much high, but yeah, the movie is movie like
+130.16027499124488	130.45550938977627	O2	Yeah
+130.4840804606019	133.61737456114477	O1	But you cannot mix it with your uh own lifestyle, right
+133.63642194169518	133.97927479160262	O2	Mm hm
+133.9887984818778	140.90209668541016	O1	Um but some, some students who who who who mix it with their life and they they ruin their life, they do some crimes, you know
+140.9306677562358	141.35496386397332	O2	[OVERLAP/] Yeah [/OVERLAP]
+141.36013475488753	141.90298510057428	O1	By movie
+141.92043599444392	147.35856331041342	O2	[OVERLAP/] That is what I I [/OVERLAP] I was trying to do, uh I was trying to say that is like last uh
+147.36932097694762	154.2352505941143	O2	Couple of months ago, I heard that one guy from Bangladesh, he saw one movie of robbing something
+154.2640654163519	160.22736257044585	O2	Robbing a [OVERLAP/] bank and [/OVERLAP] he tried to rob the bank, and he got caught, and he was just a school student
+160.74459318825203	165.93050488469703	O2	So look how much they influence, they they got influenced by the movies
+166.9600782821688	171.93217812673387	O2	[OVERLAP/] Everyone knows [/OVERLAP] that uh whatever it is shown in the movies, [OVERLAP/] it is not [/OVERLAP] actual or real
+172.08557547074975	177.89074622838956	O2	But these people, those who watch movies, they think that it it is actual, and the shows are the good thing
+177.98013049726652	183.4319720005098	O2	So I think that wa - the movie makers should be little bit concerned about those thing
+183.50325124746084	190.3503111762691	O2	Like if they make something, it should be like uh, it should send some messages to the society in a good way, not in a bad way
+190.76709650373627	197.56283805775345	O1	Yeah, of course, of course, becau - the that is why that is why most of the movie [OVERLAP/] uh [/OVERLAP] most of the movie uh the they they set up a parental guidance, you know
+197.5723617480286	197.77593709990447	O2	Yeah
+197.787999635485	203.46411903950798	O1	If eh then like uh uh within before thirteen years of old, you cannot watch the movie
+203.57596458153483	204.05458783657076	O2	[OVERLAP/] But but [/OVERLAP][N]
+204.05458783657076	207.5606848771525	O1	People in my country, they do not care, the most of the students, they do not care about this
+207.5606848771525	211.878827532706	O1	Yeah, even though like uh some people like uh uh, right now the movies uh
+211.88603847470856	216.42622394968865	O1	I am not saying that ma - the movie's qualities are getting bad, it is very good[N]
+216.43107036547204	223.85461434184066	O1	But some people, uh like uh that uh the younger children, they watch the adult movies or eighteen plus movies [OVERLAP/]right[/OVERLAP] now[N]
+223.94985124459276	228.39346394580346	O1	And they are getting influenced by [OVERLAP/]those thing[/OVERLAP], so those things should be banned in movies
+228.44108239717949	228.8060841266269	O2	Yeah
+228.98108495581403	229.96854907540717	O1	[OVERLAP/]I[/OVERLAP] believe that thing
+229.9875964559576	235.18842710469303	O2	Not banned in movies, the the people who are below eighteen, they they should be banned of s - watching those movies
+235.20016171327964	241.44604046173546	O1	Yeah, so apart from that, uh, wha - wha - what is the favorite show right now in the T V uh T V serial[N]
+241.7383045320748	245.96759105380477	O2	Uh uh right now, currently, I am, I am, I am watching Dexter[N]
+246.01596718912984	246.42548587096368	O1	Mm-hmm
+246.4445332515141	253.58740112674556	O2	That that movie is very good, it is kind of uh psychedelic, psychede - uh not movie, it is T V series, it is kind of psychedelic movie, it is kind of psycho
+253.6349194092949	253.87301166617505	O1	Mm-hmm[N]
+253.88359853028308	261.4278282700612	O2	[OVERLAP/] Um [/OVERLAP] I - i - if if if if if younger people like um ten, ten years old people see, he will be definitely influenced by those movies
+261.4373519603364	265.43477166027554	O2	So I do not recommend people [OVERLAP/] who [/OVERLAP] are not uh older enough
+265.43477166027554	272.67264855049785	O1	[OVERLAP/] But [/OVERLAP] I could recommend you one T V serial that uh that was uh uh on air in twenty twenty wa - uh in twenty seventeen[N]
+272.70653203862446	279.40814301201107	O1	And it was closed on twenty twenty-one, uh that is a Turkish drama, you have seen me watching [OVERLAP/] those drama, uh the the uh Sultan Sulaiman [/OVERLAP]
+279.5333881972495	280.3702357189186	O2	[OVERLAP/]Historical[/OVERLAP][N]
+280.39655167871945	280.88076533905627	N	[IVS]
+280.9108972421567	285.2579722484242	O1	[OVERLAP/]The movie it has [/OVERLAP] the uh it shows that how Islam
+285.27701962897464	291.0123315813264	O1	and uh the people used to fight for their right and everything, [OVERLAP/] i- it is [/OVERLAP] a Turkish drama
+291.03137896187684	297.66844872507113	O1	[OVERLAP/] So I could [/OVERLAP] uh, I would have suggest everyone to watch [OVERLAP/] that, those [/OVERLAP] who are Muslim, they they can watch that drama
+297.90665144157026	302.8827916918864	O1	Uh so apart from also that thing, I have something else to do, uh[N]
